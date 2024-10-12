@@ -38,6 +38,18 @@ const router = createRouter({
       name: 'gord1ck_2',
       component: () => import('@/pages/Gord1ck_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3003dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'pablo_1',
+      component: () => import('@/pages/Pablo_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3004dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'pablo_2',
+      component: () => import('@/pages/Pablo_2.vue'),
+    },
   ]
 })
 
