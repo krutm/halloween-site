@@ -26,6 +26,18 @@ const router = createRouter({
       name: 'aksela',
       component: () => import('@/pages/AkselaPage.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3001dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'gord1ck_1',
+      component: () => import('@/pages/Gord1ck_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3002dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'gord1ck_2',
+      component: () => import('@/pages/Gord1ck_2.vue'),
+    },
   ]
 })
 
