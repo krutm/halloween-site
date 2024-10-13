@@ -27,13 +27,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы забрать подарок<br><br>
-          1. Подпишись на канал BS News <a href="https://t.me/+_5L1SBYqLFRkMTFi" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Вселенная Supercell <a href="https://t.me/+38lvmCiEuiYzZjEy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+_5L1SBYqLFRkMTFi', '_blank')"
+            onclick="window.open('https://t.me/+38lvmCiEuiYzZjEy', '_blank')"
         >
           <span>Подписаться</span>
         </a>

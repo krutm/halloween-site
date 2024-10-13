@@ -26,14 +26,14 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать гиперзаряд<br><br>
-          1. Подпишись на канал Brawl Stars <a href="https://t.me/+dSZo0i7UtZExMjky" target="_blank">Подписаться ></a>
+          Чтобы забрать подарок<br><br>
+          1. Подпишись на канал BS Wild <a href="https://t.me/+53IoPm5BGMQ5NWE0" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+dSZo0i7UtZExMjky', '_blank')"
+            onclick="window.open('https://t.me/+53IoPm5BGMQ5NWE0', '_blank')"
         >
           <span>Подписаться</span>
         </a>

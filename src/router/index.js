@@ -10,24 +10,6 @@ const router = createRouter({
     },
 
     {
-      path: '/about',
-      name: 'about',
-      component: () => import('@/pages/AboutSupercell.vue'),
-    },
-
-    {
-      path: '/news',
-      name: 'news',
-      component: () => import('@/pages/SupercellNews.vue'),
-    },
-
-    {
-      path: '/action=voucher&code=3000dcf5-b25d-467e-a4d3-cf597a5f6a23',
-      name: 'aksela',
-      component: () => import('@/pages/AkselaPage.vue'),
-    },
-
-    {
       path: '/action=voucher&code=3001dcf5-b25d-467e-a4d3-cf597a5f6a23',
       name: 'gord1ck_1',
       component: () => import('@/pages/Gord1ck_1.vue'),
@@ -55,6 +37,24 @@ const router = createRouter({
       path: '/action=voucher&code=3005dcf5-b25d-467e-a4d3-cf597a5f6a23',
       name: 'bogdan_1',
       component: () => import('@/pages/Bogdan_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3006dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'quist_1',
+      component: () => import('@/pages/Quist_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3007dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'aksela_1',
+      component: () => import('@/pages/Aksela_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3008dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'harmless_1',
+      component: () => import('@/pages/Harmless_1.vue'),
     },
   ]
 })
