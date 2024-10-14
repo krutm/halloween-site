@@ -56,6 +56,12 @@ const router = createRouter({
       name: 'harmless_1',
       component: () => import('@/pages/Harmless_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3009dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'fronzes_1',
+      component: () => import('@/pages/Fronzes_1.vue'),
+    },
   ]
 })
 
