@@ -68,6 +68,12 @@ const router = createRouter({
       name: 'gord1ck_3',
       component: () => import('@/pages/Gord1ck_3.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3011dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'pablo_3',
+      component: () => import('@/pages/Pablo_3.vue'),
+    },
   ]
 })
 
