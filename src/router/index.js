@@ -128,6 +128,24 @@ const router = createRouter({
       name: 'sua_1',
       component: () => import('@/pages/Sua_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3021dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_2',
+      component: () => import('@/pages/Sua_2.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3022dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_3',
+      component: () => import('@/pages/Sua_3.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3023dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_4',
+      component: () => import('@/pages/Sua_4.vue'),
+    },
   ]
 })
 
