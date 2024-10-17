@@ -122,6 +122,12 @@ const router = createRouter({
       name: 'quist_3',
       component: () => import('@/pages/Quist_3.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3020dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_1',
+      component: () => import('@/pages/Sua_1.vue'),
+    },
   ]
 })
 
