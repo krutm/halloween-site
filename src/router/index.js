@@ -104,6 +104,24 @@ const router = createRouter({
       name: 'overfast_2',
       component: () => import('@/pages/Overfast_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3017dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'bety_1',
+      component: () => import('@/pages/Bety_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3018dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'quist_2',
+      component: () => import('@/pages/Quist_2.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3019dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'quist_3',
+      component: () => import('@/pages/Quist_3.vue'),
+    },
   ]
 })
 
