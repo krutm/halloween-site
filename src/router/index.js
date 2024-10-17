@@ -92,6 +92,12 @@ const router = createRouter({
       name: 'gass_1',
       component: () => import('@/pages/Gass_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3015dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'pablo_4',
+      component: () => import('@/pages/Pablo_4.vue'),
+    },
   ]
 })
 
