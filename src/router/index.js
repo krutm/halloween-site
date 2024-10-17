@@ -86,6 +86,12 @@ const router = createRouter({
       name: 'sheesh_1',
       component: () => import('@/pages/Sheesh_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3014dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'gass_1',
+      component: () => import('@/pages/Gass_1.vue'),
+    },
   ]
 })
 
