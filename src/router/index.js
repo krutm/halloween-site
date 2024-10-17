@@ -80,6 +80,12 @@ const router = createRouter({
       name: 'overfast_1',
       component: () => import('@/pages/Overfast_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3013dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sheesh_1',
+      component: () => import('@/pages/Sheesh_1.vue'),
+    },
   ]
 })
 
