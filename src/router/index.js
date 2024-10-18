@@ -176,6 +176,18 @@ const router = createRouter({
       name: 'sua_8',
       component: () => import('@/pages/Sua_6.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3029dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sandy_1',
+      component: () => import('@/pages/Sandy_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3030dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'flek_1',
+      component: () => import('@/pages/Flek_1.vue'),
+    },
   ]
 })
 
