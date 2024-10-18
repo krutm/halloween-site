@@ -152,6 +152,18 @@ const router = createRouter({
       name: 'fronzes_2',
       component: () => import('@/pages/Fronzes_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3025dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_5',
+      component: () => import('@/pages/Sua_4.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3026dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sua_6',
+      component: () => import('@/pages/Sua_4.vue'),
+    },
   ]
 })
 
