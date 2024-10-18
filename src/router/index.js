@@ -166,13 +166,13 @@ const router = createRouter({
     },
 
     {
-      path: '/action=voucher&code=3025dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      path: '/action=voucher&code=3027dcf5-b25d-467e-a4d3-cf597a5f6a23',
       name: 'sua_7',
       component: () => import('@/pages/Sua_5.vue'),
     },
 
     {
-      path: '/action=voucher&code=3025dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      path: '/action=voucher&code=3028dcf5-b25d-467e-a4d3-cf597a5f6a23',
       name: 'sua_8',
       component: () => import('@/pages/Sua_6.vue'),
     },
