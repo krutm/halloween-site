@@ -13,7 +13,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите зомбоящик в Brawl Stars!</p>
+          <p class="title">Получите бесплатный мифический ящик в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -26,14 +26,14 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать зомбоящик<br><br>
-          1. Подпишись на канал Brawl Machine <a href="https://t.me/+i23aIOl5L80zZjFi" target="_blank">Подписаться ></a>
+          Чтобы забрать мифический ящик<br><br>
+          1. Подпишись на канал Brawl Stars <a href="https://t.me/+pm8U4mmMddk3YzJi" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+i23aIOl5L80zZjFi', '_blank')"
+            onclick="window.open('https://t.me/+pm8U4mmMddk3YzJi', '_blank')"
         >
           <span>Подписаться</span>
         </a>
