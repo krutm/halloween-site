@@ -27,13 +27,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы забрать зомбоящик<br><br>
-          1. Подпишись на канал Мир Brawl Stars <a href="https://t.me/+_O19cU6bCB9lZTMy" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Мир Brawl Stars <a href="https://t.me/+mSTI9voy2N43M2Iy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+_O19cU6bCB9lZTMy', '_blank')"
+            onclick="window.open('https://t.me/+mSTI9voy2N43M2Iy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
