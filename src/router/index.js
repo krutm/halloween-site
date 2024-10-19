@@ -224,6 +224,12 @@ const router = createRouter({
       name: 'treyzi_1',
       component: () => import('@/pages/Treyzi_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3036dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'pablo_5',
+      component: () => import('@/pages/Pablo_5.vue'),
+    },
   ]
 })
 
