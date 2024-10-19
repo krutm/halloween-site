@@ -188,6 +188,12 @@ const router = createRouter({
       name: 'flek_1',
       component: () => import('@/pages/Flek_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3031dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'gass_2',
+      component: () => import('@/pages/Gass_2.vue'),
+    },
   ]
 })
 
