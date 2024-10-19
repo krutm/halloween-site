@@ -194,6 +194,18 @@ const router = createRouter({
       name: 'gass_2',
       component: () => import('@/pages/Gass_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3032dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_1',
+      component: () => import('@/pages/Lemme_1.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3033dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'overfast_3',
+      component: () => import('@/pages/Overfast_3.vue'),
+    },
   ]
 })
 
