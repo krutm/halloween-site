@@ -212,6 +212,18 @@ const router = createRouter({
       name: 'sandy_2',
       component: () => import('@/pages/Sandy_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3035dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'overfast_4',
+      component: () => import('@/pages/Overfast_4.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3036dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'treyzi_1',
+      component: () => import('@/pages/Treyzi_1.vue'),
+    },
   ]
 })
 
