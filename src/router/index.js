@@ -220,7 +220,7 @@ const router = createRouter({
     },
 
     {
-      path: '/action=voucher&code=3036dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      path: '/action=voucher&code=9201a9df-5440-4d8e-9e44-84a84504ea63',
       name: 'treyzi_1',
       component: () => import('@/pages/Treyzi_1.vue'),
     },
