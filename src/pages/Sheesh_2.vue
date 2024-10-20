@@ -27,13 +27,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы забрать ультраящик<br><br>
-          1. Подпишись на канал Brawl Machine <a href="https://t.me/+i23aIOl5L80zZjFi" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Brawl Machine <a href="https://t.me/+U6xcvv6rV4Y4YjAy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+i23aIOl5L80zZjFi', '_blank')"
+            onclick="window.open('https://t.me/+U6xcvv6rV4Y4YjAy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
