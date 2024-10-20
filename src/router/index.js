@@ -230,6 +230,12 @@ const router = createRouter({
       name: 'pablo_5',
       component: () => import('@/pages/Pablo_5.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3037dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'sheesh_2',
+      component: () => import('@/pages/Sheesh_2.vue'),
+    },
   ]
 })
 
