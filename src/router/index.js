@@ -254,6 +254,12 @@ const router = createRouter({
       name: 'quist_4',
       component: () => import('@/pages/Quist_4.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3042dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'loner_1',
+      component: () => import('@/pages/Loner_1.vue'),
+    },
   ]
 })
 
