@@ -260,6 +260,12 @@ const router = createRouter({
       name: 'loner_1',
       component: () => import('@/pages/Loner_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3043dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      name: 'overfast_5',
+      component: () => import('@/pages/Overfast_5.vue'),
+    },
   ]
 })
 
