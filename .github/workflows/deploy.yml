@@ -1,0 +1,40 @@
+name: Deploy to server
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  NODE_VERSION: 18
+  INIT_COMMAND: npm install
+  BUILD_COMMAND: npm run build
+  BUILD_DIRECTORY_PATH: ./dist
+  REMOTE_DIRECTORY_PATH: /var/www/link-brawlstars.com/html
+  SSH_HOST: ${{ secrets.SSH_HOST }}
+  SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+  SSH_KEY: ${{ secrets.SSH_KEY }}
+
+jobs:
+  build:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install dependencies and build the project
+        run: ${{ env.INIT_COMMAND }} && ${{ env.BUILD_COMMAND }}
+
+      - name: Deploy to remote server
+        uses: nogsantos/scp-deploy@master
+        with:
+          src: ${{ env.BUILD_DIRECTORY_PATH }}/*
+          remote: ${{ env.REMOTE_DIRECTORY_PATH }}
+          host: ${{ env.SSH_HOST }}
+          user: ${{ env.SSH_USERNAME }}
+          key: ${{ env.SSH_KEY }}
