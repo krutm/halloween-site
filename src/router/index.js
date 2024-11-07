@@ -290,6 +290,12 @@ const router = createRouter({
       name: 'bogdan_2',
       component: () => import('@/pages/Bogdan_2.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3047dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'sua_10',
+      component: () => import('@/pages/Sua_10.vue'),
+    },
   ]
 })
 
