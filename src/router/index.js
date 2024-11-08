@@ -296,6 +296,12 @@ const router = createRouter({
       name: 'sua_10',
       component: () => import('@/pages/Sua_10.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3048dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_2',
+      component: () => import('@/pages/Lemme_2.vue'),
+    },
   ]
 })
 
