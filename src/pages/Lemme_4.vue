@@ -27,7 +27,7 @@
         <div class="modal__content">
           <div class="modal__point">
             Чтобы забрать ультраящик<br><br>
-            1. Подпишись на канал Brawl Stars <a href="https://t.me/+cvaW6ya8MLViYjAysssssssssssssssssssssssssss" target="_blank">Подписаться ></a><br>
+            1. Подпишись на канал Brawl Stars <a href="https://t.me/+cvaW6ya8MLViYjAy" target="_blank">Подписаться ></a><br>
             2. Тебе напишет бот для выдачи ультраящика!
           </div>
   
