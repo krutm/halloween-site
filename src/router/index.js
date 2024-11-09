@@ -314,6 +314,36 @@ const router = createRouter({
       name: 'sua_11',
       component: () => import('@/pages/Sua_11.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3051dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_3',
+      component: () => import('@/pages/Lemme_3.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3052dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_4',
+      component: () => import('@/pages/Lemme_4.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3053dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_5',
+      component: () => import('@/pages/Lemme_5.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3054dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_6',
+      component: () => import('@/pages/Lemme_6.vue'),
+    },
+
+    {
+      path: '/action=voucher&code=3055dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'lemme_7',
+      component: () => import('@/pages/Lemme_7.vue'),
+    },
   ]
 })
 
