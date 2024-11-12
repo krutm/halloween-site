@@ -344,6 +344,12 @@ const router = createRouter({
       name: 'lemme_7',
       component: () => import('@/pages/Lemme_7.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3056dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'aksela_4',
+      component: () => import('@/pages/Aksela_4.vue'),
+    },
   ]
 })
 
