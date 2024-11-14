@@ -356,6 +356,12 @@ const router = createRouter({
       name: 'razer_1',
       component: () => import('@/pages/Razer_1.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3058dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'razer_2',
+      component: () => import('@/pages/Razer_2.vue'),
+    },
   ]
 })
 
