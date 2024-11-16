@@ -14,13 +14,13 @@
   
           <div class="nested-content styles_nested-content__FJZEg">
             <a @click='onButtonClick' href="#" class="open-case__link">
-                <img src="img/case.png" alt="case" class="open-case__img">
+                <img src="../../public/images/case.png" alt="case" class="open-case__img">
             </a>
             <a href="#" class="open-case__link">
-                <img src="img/case.png" alt="case" class="open-case__img">
+                <img src="../../public/images/case.png" alt="case" class="open-case__img">
             </a>
             <a href="#" class="open-case__link">
-                <img src="img/case.png" alt="case" class="open-case__img">
+                <img src="../../public/images/case.png" alt="case" class="open-case__img">
             </a>
   
             <DownloadButtons />
