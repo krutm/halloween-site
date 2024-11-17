@@ -380,6 +380,30 @@ const router = createRouter({
       name: 'Sua_12',
       component: () => import('@/pages/Sua_12.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3062dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_13',
+      component: () => import('@/pages/Sua_13.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3063dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_14',
+      component: () => import('@/pages/Sua_14.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3064dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_15',
+      component: () => import('@/pages/Sua_15.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3065dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_16',
+      component: () => import('@/pages/Sua_16.vue'),
+    },
   ]
 })
 
