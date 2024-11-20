@@ -13,7 +13,7 @@
           </a>
   
           <div class="nested-content styles_nested-content__FJZEg">
-            <p class="title">Получите 2 Демонических старрдропа в Brawl Stars!</p>
+            <p class="title">Получите Демонический старрдроп в Brawl Stars!</p>
             <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
   
             <DownloadButtons />
@@ -26,7 +26,7 @@
       <div v-if="isModalVisible" id="modal" class="modal">
         <div class="modal__content">
           <div class="modal__point">
-            Чтобы забрать 2 Демонических старрдропа:<br><br>
+            Чтобы забрать Демонический старрдроп:<br><br>
             1. Подпишись на канал BS Earth <a href="https://t.me/+0w7nHkaN3xUwMzUy" target="_blank">Подписаться ></a>
           </div>
   
