@@ -27,13 +27,13 @@
         <div class="modal__content">
           <div class="modal__point">
             Чтобы забрать Ангельский старрдроп:<br><br>
-            1. Подпишись на канал BS Earth <a href="https://t.me/+F2TiCqz3BDZkNTcy" target="_blank">Подписаться ></a>
+            1. Подпишись на канал BS Earth <a href="https://t.me/+WxU0klTCIaQxYTAy" target="_blank">Подписаться ></a>
           </div>
   
           <a
               id="get-button"
               class="button styles_button__DNJ4N modal__button"
-              onclick="window.open('https://t.me/+F2TiCqz3BDZkNTcy', '_blank')"
+              onclick="window.open('https://t.me/+WxU0klTCIaQxYTAy', '_blank')"
           >
             <span>Подписаться</span>
           </a>
