@@ -464,6 +464,12 @@ const router = createRouter({
       name: 'overfast_6',
       component: () => import('@/pages/Overfast_6.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3076dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Razer_22',
+      component: () => import('@/pages/Razer_22.vue'),
+    },
   ]
 })
 
