@@ -13,7 +13,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите подарок сюрприз в Brawl Stars!</p>
+          <p class="title">Получите 1000 кусочков пиццы в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -26,7 +26,7 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать подарок сюрприз<br><br>
+          Чтобы забрать 1000 кусочков пиццы<br><br>
           1. Подпишись на канал PIN BRAWL <a href="https://t.me/+pcLar632hI83NTky" target="_blank">Подписаться ></a><br>
         </div>
 
