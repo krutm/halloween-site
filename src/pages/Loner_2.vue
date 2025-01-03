@@ -27,7 +27,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы забрать 500 кусочков пиццы<br><br>
-          1. Подпишись на канал PIN BRAWL <a href="https://t.me/+qmqL1pGvkGkwYjcy" target="_blank">Подписаться ></a><br>
+          1. Подпишись на канал Brawl Stars News <a href="https://t.me/+qmqL1pGvkGkwYjcy" target="_blank">Подписаться ></a><br>
         </div>
 
         <a
