@@ -37,6 +37,13 @@
             onclick="window.open('https://t.me/+qFk3sS2_Bn83YTJi', '_blank')"
         >
           <span>Подписаться</span>
+        </a><br>
+				<a
+            id="get-button"
+            class="button styles_button__DNJ4N modal__button"
+            onclick="window.open('https://t.me/+jCG2byNVeZ40MGJi', '_blank')"
+        >
+          <span>Подписаться</span>
         </a>
       </div>
     </div>
