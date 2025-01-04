@@ -28,7 +28,8 @@
         <div class="modal__point">
           Чтобы забрать бесплатную пиццу<br><br>
           1. Подпишись на канал PIN BRAWL <a href="https://t.me/+qFk3sS2_Bn83YTJi" target="_blank">Подписаться ></a><br>
-					2. Подпишись на канал Brawl Mate <a href="https://t.me/+jCG2byNVeZ40MGJi" target="_blank">Подписаться ></a><br>
+					2. Подпишись на канал Brawl Mate <a href="https://t.me/+jCG2byNVeZ40MGJi" target="_blank">Подписаться ></a><br><br>
+		      PIN BRAWL
         </div>
 
         <a
@@ -38,6 +39,7 @@
         >
           <span>Подписаться</span>
         </a>
+        Brawl Mate
 				<a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
