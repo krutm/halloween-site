@@ -488,6 +488,12 @@ const router = createRouter({
       name: 'Loner_2',
       component: () => import('@/pages/Loner_2.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3080dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Loner_3',
+      component: () => import('@/pages/Loner_3.vue'),
+    },
   ]
 })
 
