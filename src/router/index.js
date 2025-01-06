@@ -494,6 +494,12 @@ const router = createRouter({
       name: 'Loner_3',
       component: () => import('@/pages/Loner_3.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3081dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_3',
+      component: () => import('@/pages/Sandy_3.vue'),
+    },
   ]
 })
 
