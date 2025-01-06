@@ -1,6 +1,6 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <img src="https://i.ibb.co/JxGynQb/IMG-2150-1.png" alt="IMG-2150-1" class="video_background" border="0">
+    <img src="https://i.ibb.co/MNP2wkY/IMG-2159.png" alt="IMG-2159" border="0" class="video_background">
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
@@ -11,7 +11,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите подарок в Brawl Stars!</p>
+          <p class="title">Получите 2500 кусочков пиццы в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -24,14 +24,14 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать подарок<br><br>
-          1. Подпишись на канал Sand Brawl News <a href="https://t.me/+DnrngVCy7yZiZGIy" target="_blank">Подписаться ></a>
+          Чтобы получить 2500 кусочков пиццы<br><br>
+          1. Подпишись на канал Brawl Stars <a href="https://t.me/+l79Xj3GFhHQ2YTcy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+DnrngVCy7yZiZGIy', '_blank')"
+            onclick="window.open('https://t.me/+l79Xj3GFhHQ2YTcy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
