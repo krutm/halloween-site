@@ -1,8 +1,6 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <video class="video_background" autoplay muted loop playsinline>
-      <source src="/video.mov?url" type="video/mp4">
-    </video>
+    <img src="https://i.ibb.co/MNP2wkY/IMG-2159.png" alt="IMG-2159" border="0" class="video_background">
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
@@ -13,7 +11,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите зомбоящик в Brawl Stars!</p>
+          <p class="title">Получите 2500 кусочков пиццы в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -26,15 +24,14 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать зомбоящик<br><br>
-          1. Подпишись на канал Brawl Stars <a href="https://t.me/+I_DOIkgNJDJkYmIy" target="_blank">Подписаться ></a><br>
-          2. Тебе напишет бот для выдачи зомбиящика!
+          Чтобы получить 2500 кусочков пиццы<br><br>
+          1. Подпишись на канал Brawl Stars <a href="https://t.me/+VZ0027804b9mNmEy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+I_DOIkgNJDJkYmIy', '_blank')"
+            onclick="window.open('https://t.me/+VZ0027804b9mNmEy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
