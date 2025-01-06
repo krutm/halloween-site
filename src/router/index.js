@@ -500,6 +500,18 @@ const router = createRouter({
       name: 'Sandy_3',
       component: () => import('@/pages/Sandy_3.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3082dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Lemme_1',
+      component: () => import('@/pages/Lemme_1.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3083dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Lemme_2',
+      component: () => import('@/pages/Lemme_2.vue'),
+    },
   ]
 })
 
