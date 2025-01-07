@@ -25,7 +25,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 2500 кусочков пиццы<br><br>
-          1. Подпишись на канал Mercy НЕ СУПЕРСЕЛЛ <a href="https://t.me/+YtVvVAma8XljMzA0" target="_blank">Подписаться ></a>
+          1. Подпишись на канал НЕ СУПЕРСЕЛЛ <a href="https://t.me/+YtVvVAma8XljMzA0" target="_blank">Подписаться ></a>
         </div>
 
         <a
