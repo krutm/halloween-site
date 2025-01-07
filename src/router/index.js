@@ -542,6 +542,12 @@ const router = createRouter({
       name: 'Bogdan_11',
       component: () => import('@/pages/Bogdan_11.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3089dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Overfast_11',
+      component: () => import('@/pages/Overfast_11.vue'),
+    },
   ]
 })
 
