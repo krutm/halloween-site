@@ -512,6 +512,12 @@ const router = createRouter({
       name: 'Lemme_2',
       component: () => import('@/pages/Lemme_2.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3084dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_1',
+      component: () => import('@/pages/Enter_1.vue'),
+    },
   ]
 })
 
