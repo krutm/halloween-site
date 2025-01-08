@@ -28,7 +28,7 @@
         <div class="modal__point">
           Чтобы забрать бесплатную пиццу<br><br>
           1. Подпишись на канал PIN BRAWL <a href="https://t.me/+qFk3sS2_Bn83YTJi" target="_blank">Подписаться ></a><br>
-					2. Подпишись на канал BS Wild <a href="https://t.me/+bIlevWi7plI2MzNk" target="_blank">Подписаться ></a><br><br><br>
+					2. Подпишись на канал BS Wild <a href="https://t.me/+RMsgm3PmikQxODYy" target="_blank">Подписаться ></a><br><br><br>
 		      PIN BRAWL
         </div>
 
@@ -43,7 +43,7 @@
 				<a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+bIlevWi7plI2MzNk', '_blank')"
+            onclick="window.open('https://t.me/+RMsgm3PmikQxODYy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
