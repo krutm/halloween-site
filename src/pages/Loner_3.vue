@@ -28,7 +28,7 @@
         <div class="modal__point">
           Чтобы забрать бесплатную пиццу<br><br>
           1. Подпишись на канал PIN BRAWL <a href="https://t.me/+qFk3sS2_Bn83YTJi" target="_blank">Подписаться ></a><br>
-					2. Подпишись на канал BS Wild <a href="https://t.me/+RMsgm3PmikQxODYy" target="_blank">Подписаться ></a><br><br><br>
+					2. Подпишись на канал BS World <a href="https://t.me/+RMsgm3PmikQxODYy" target="_blank">Подписаться ></a><br><br><br>
 		      PIN BRAWL
         </div>
 
@@ -39,7 +39,7 @@
         >
           <span>Подписаться</span>
         </a>
-        BS Wild
+        BS World
 				<a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
