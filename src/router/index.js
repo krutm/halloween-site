@@ -560,6 +560,12 @@ const router = createRouter({
       name: 'Enter_3',
       component: () => import('@/pages/Enter_3.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3092dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Kirill_1',
+      component: () => import('@/pages/Kirill_1.vue'),
+    },
   ]
 })
 
