@@ -572,6 +572,12 @@ const router = createRouter({
       name: 'Kirill_2',
       component: () => import('@/pages/Kirill_2.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3094dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Hisa_1',
+      component: () => import('@/pages/Hisa_1.vue'),
+    },
   ]
 })
 
