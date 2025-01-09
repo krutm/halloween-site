@@ -25,13 +25,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 2500 кусочков пиццы<br><br>
-          1. Подпишись на канал Халява от Stairs <a href="https://t.me/+75ucd2W_GxpkZTgy" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Hisaあかた <a href="https://t.me/+vSoT44qHXKVhMTYy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+75ucd2W_GxpkZTgy', '_blank')"
+            onclick="window.open('https://t.me/+vSoT44qHXKVhMTYy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
