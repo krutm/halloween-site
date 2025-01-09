@@ -578,6 +578,12 @@ const router = createRouter({
       name: 'Hisa_1',
       component: () => import('@/pages/Hisa_1.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3095dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Lemme_4',
+      component: () => import('@/pages/Lemme_4.vue'),
+    },
   ]
 })
 
