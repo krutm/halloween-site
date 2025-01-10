@@ -602,6 +602,30 @@ const router = createRouter({
       name: 'Sua_23',
       component: () => import('@/pages/Sua_23.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3099dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_4',
+      component: () => import('@/pages/Enter_4.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3100dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_5',
+      component: () => import('@/pages/Enter_5.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3101dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_6',
+      component: () => import('@/pages/Enter_6.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3102dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_7',
+      component: () => import('@/pages/Enter_7.vue'),
+    },
   ]
 })
 
