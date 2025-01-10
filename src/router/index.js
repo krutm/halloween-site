@@ -584,6 +584,24 @@ const router = createRouter({
       name: 'Lemme_4',
       component: () => import('@/pages/Lemme_4.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3096dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_21',
+      component: () => import('@/pages/Sua_21.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3097dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_22',
+      component: () => import('@/pages/Sua_22.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3098dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_23',
+      component: () => import('@/pages/Sua_23.vue'),
+    },
   ]
 })
 
