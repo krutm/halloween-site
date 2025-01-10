@@ -11,7 +11,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите 100 кусочков пиццы в Brawl Stars!</p>
+          <p class="title">Получите 2500 кусочков пиццы в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -24,7 +24,7 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы получить 100 кусочков пиццы<br><br>
+          Чтобы получить 2500 кусочков пиццы<br><br>
           1. Подпишись на канал BS Black <a href="https://t.me/+6XKbxV4yCYw1Zjgy" target="_blank">Подписаться ></a>
         </div>
 
