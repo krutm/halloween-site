@@ -659,8 +659,8 @@ const router = createRouter({
     
     {
       path: '/action=voucher&code=3108dcf5-b25b-467e-a4d3-cf597a5f6a23',
-      name: 'Sandy_13',
-      component: () => import('@/pages/Overfast_1.vue'),
+      name: 'Sandy_17',
+      component: () => import('@/pages/Pablo_1.vue'),
     },
     
     {
