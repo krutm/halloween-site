@@ -638,6 +638,12 @@ const router = createRouter({
       name: 'Razer_31',
       component: () => import('@/pages/Lemme_5.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3105dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_1',
+      component: () => import('@/pages/Sirex_1.vue'),
+    },
   ]
 })
 
