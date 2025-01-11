@@ -25,7 +25,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 1000 кусочков пиццы<br><br>
-          1. Подпишись на канал Халява от Stairs <a href="https://t.me/+LoSn0Ouc_Ko3YmFi" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Brawl Stars <a href="https://t.me/+LoSn0Ouc_Ko3YmFi" target="_blank">Подписаться ></a>
         </div>
 
         <a
