@@ -650,6 +650,24 @@ const router = createRouter({
       name: 'Sandy_11',
       component: () => import('@/pages/Lemme_6.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3107dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_12',
+      component: () => import('@/pages/Lemme_7.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3108dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_13',
+      component: () => import('@/pages/Overfast_1.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3109dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_14',
+      component: () => import('@/pages/Overfast_2.vue'),
+    },
   ]
 })
 
