@@ -674,6 +674,18 @@ const router = createRouter({
       name: 'Sandy_99',
       component: () => import('@/pages/Overfast_1.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3111dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_999',
+      component: () => import('@/pages/Sandy_999.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3112dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_1000',
+      component: () => import('@/pages/Sandy_1000.vue'),
+    },
   ]
 })
 
