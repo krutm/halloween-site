@@ -692,6 +692,12 @@ const router = createRouter({
       name: 'Overfast_999',
       component: () => import('@/pages/Overfast_999.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3114dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sua_24',
+      component: () => import('@/pages/Sua_24.vue'),
+    },
   ]
 })
 
