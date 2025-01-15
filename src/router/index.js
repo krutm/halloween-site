@@ -718,7 +718,7 @@ const router = createRouter({
     },
     
     {
-      path: '/action=voucher&code=3117dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      path: '/action=voucher&code=3118dcf5-b25b-467e-a4d3-cf597a5f6a23',
       name: 'Hisa_3',
       component: () => import('@/pages/Hisa_3.vue'),
     },
