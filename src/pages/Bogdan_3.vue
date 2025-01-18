@@ -1,6 +1,6 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <img src="https://i.ibb.co/6Ry9mtR/IMG-0078.png" alt="IMG-2159" border="0" class="video_background">
+    <img src="https://i.ibb.co/3C6zL9Z/10-20250118171503.png" alt="IMG-2159" border="0" class="video_background">
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
@@ -25,13 +25,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить бесплатный титул "Мажор"<br><br>
-          1. Подпишись на канал Мир Brawl Stars <a href="https://t.me/+DlkNTQlXMKEwM2Yy" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Мир Brawl Stars <a href="https://t.me/+pe2RsVjtHeNjZTM0" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+DlkNTQlXMKEwM2Yy', '_blank')"
+            onclick="window.open('https://t.me/+pe2RsVjtHeNjZTM0', '_blank')"
         >
           <span>Подписаться</span>
         </a>
