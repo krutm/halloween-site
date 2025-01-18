@@ -740,6 +740,24 @@ const router = createRouter({
       name: 'Sandy_801',
       component: () => import('@/pages/Sandy_801.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3122dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_802',
+      component: () => import('@/pages/Sandy_802.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3123dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_803',
+      component: () => import('@/pages/Sandy_803.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3124dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_804',
+      component: () => import('@/pages/Sandy_804.vue'),
+    },
   ]
 })
 
