@@ -13,7 +13,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите бесплатную пиццу в Brawl Stars!</p>
+          <p class="title">Получите бесплатную пиццу и 30 кристаллов в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -26,7 +26,7 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать бесплатную пиццу<br><br>
+          Чтобы забрать бесплатную пиццу и 30 кристаллов<br><br>
           1. Подпишись на канал PIN BRAWL <a href="https://t.me/+dsm5IK5Gb64wZDAy" target="_blank">Подписаться ></a><br>
 					2. Подпишись на канал Dynasty BS <a href="https://t.me/+UrAjEUzgz05iOWE0" target="_blank">Подписаться ></a><br><br><br>
 		      PIN BRAWL
