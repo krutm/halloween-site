@@ -776,6 +776,24 @@ const router = createRouter({
       name: 'Loner_4',
       component: () => import('@/pages/Loner_4.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3128dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_8',
+      component: () => import('@/pages/Quist_1.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3129dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_9',
+      component: () => import('@/pages/Quist_2.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3130dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_10',
+      component: () => import('@/pages/Quist_3.vue'),
+    },
   ]
 })
 
