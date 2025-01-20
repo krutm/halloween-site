@@ -794,6 +794,18 @@ const router = createRouter({
       name: 'Enter_10',
       component: () => import('@/pages/Quist_3.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3131dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Harmless_3',
+      component: () => import('@/pages/Harmless_3.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3132dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Harmless_2',
+      component: () => import('@/pages/Harmless_2.vue'),
+    },
   ]
 })
 
