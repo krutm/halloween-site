@@ -806,6 +806,12 @@ const router = createRouter({
       name: 'Harmless_2',
       component: () => import('@/pages/Harmless_2.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3133dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Harmless_4',
+      component: () => import('@/pages/Harmless_4.vue'),
+    },
   ]
 })
 
