@@ -818,6 +818,12 @@ const router = createRouter({
       name: 'Sirex_201',
       component: () => import('@/pages/Sirex_201.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3135dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_202',
+      component: () => import('@/pages/Sirex_202.vue'),
+    },
   ]
 })
 
