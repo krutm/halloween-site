@@ -25,7 +25,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 1000 кусочков пиццы<br><br>
-          1. Подпишись на канал BS Planet <a href="https://t.me/+Q5hYGF99NkE1ODUy" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Brawl Stars Planet <a href="https://t.me/+Q5hYGF99NkE1ODUy" target="_blank">Подписаться ></a>
         </div>
 
         <a
