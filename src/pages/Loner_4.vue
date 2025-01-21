@@ -27,7 +27,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы забрать бесплатную пиццу и 30 кристаллов<br><br>
-          1. Подпишись на канал PIN BRAWL <a href="https://t.me/+dsm5IK5Gb64wZDAy" target="_blank">Подписаться ></a><br>
+          1. Подпишись на канал PIN BRAWL <a href="https://t.me/+ly1qydXEGaJhMThi" target="_blank">Подписаться ></a><br>
 					2. Подпишись на канал BS White <a href="https://t.me/+9_Eny8t_9e9jZGRi" target="_blank">Подписаться ></a><br><br><br>
 		      PIN BRAWL
         </div>
@@ -35,7 +35,7 @@
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+dsm5IK5Gb64wZDAy', '_blank')"
+            onclick="window.open('https://t.me/+ly1qydXEGaJhMThi', '_blank')"
         >
           <span>Подписаться</span>
         </a>
