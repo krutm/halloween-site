@@ -25,13 +25,13 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 550 кусочков пиццы<br><br>
-          1. Подпишись на канал BS Population <a href="https://t.me/+f9W1s7ZaOW01OWVi" target="_blank">Подписаться ></a>
+          1. Подпишись на канал Supercell News <a href="https://t.me/+yjyq7kU2HqMyNGIy" target="_blank">Подписаться ></a>
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+f9W1s7ZaOW01OWVi', '_blank')"
+            onclick="window.open('https://t.me/+yjyq7kU2HqMyNGIy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
