@@ -27,7 +27,7 @@
           Чтобы забрать 550 кусочков пиццы<br><br>
           1. Подпишись на канал Гильдия Быстрого Матраса <a href="https://t.me/+V9adzaJ1u6U3MzYy" target="_blank">Подписаться ></a><br>
 					2. Подпишись на канал Мир Brawl Stars <a href="https://t.me/+0RH7lPEQ6QA4YzJi" target="_blank">Подписаться ></a><br>
-					3. Подпишись на канал BS Earth <a href="https://t.me/+dIMXhl2JmSk3OThi" target="_blank">Подписаться ></a><br><br><br>
+					3. Подпишись на канал Mirrox <a href="https://t.me/+ZsBDKn0Tsj83Y2Vi" target="_blank">Подписаться ></a><br><br><br>
 		      Гильдия Быстрого Матраса
         </div>
 
@@ -46,11 +46,11 @@
         >
           <span>Подписаться</span>
         </a>
-				BS Earth
+				Mirrox
 				<a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+dIMXhl2JmSk3OThi', '_blank')"
+            onclick="window.open('https://t.me/+ZsBDKn0Tsj83Y2Vi', '_blank')"
         >
           <span>Подписаться</span>
         </a>
