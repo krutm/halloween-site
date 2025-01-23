@@ -1,8 +1,6 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <video class="video_background" autoplay muted loop playsinline>
-      <source src="/video.mov?url" type="video/mp4">
-    </video>
+    <img src="https://i.ibb.co/fFtS3ch/IMG-2173.jpg" alt="IMG-2159" border="0" class="video_background">
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
