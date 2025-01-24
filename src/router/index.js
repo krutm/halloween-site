@@ -896,6 +896,24 @@ const router = createRouter({
       name: 'Disp_1',
       component: () => import('@/pages/Disp_1.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3148dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_809',
+      component: () => import('@/pages/Sandy_809.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3149dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_810',
+      component: () => import('@/pages/Sandy_811.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3150dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_811',
+      component: () => import('@/pages/Sandy_811.vue'),
+    },
   ]
 })
 
