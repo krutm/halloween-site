@@ -977,8 +977,8 @@ const router = createRouter({
     
     {
       path: '/action=voucher&code=3161dcf5-b25b-467e-a4d3-cf597a5f6a23',
-      name: 'Sandy_186',
-      component: () => import('@/pages/Sandy_186.vue'),
+      name: 'Sandy_816',
+      component: () => import('@/pages/Sandy_816.vue'),
     },
   ]
 })
