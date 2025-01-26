@@ -1,14 +1,8 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <div class="video_background" style="padding:56.25% 0 0 0;position:relative;">
-    <iframe 
-        src="https://player.vimeo.com/video/1050501216?autoplay=1&muted=1&loop=1&background=1" 
-        frameborder="0" 
-        allow="autoplay; fullscreen; picture-in-picture" 
-        style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-        playsinline>
-    </iframe>
-</div>
+    <video class="video_background" autoplay muted loop playsinline>
+      <source src="/video.mov?url" type="video/mp4">
+    </video>
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
