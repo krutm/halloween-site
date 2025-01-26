@@ -24,7 +24,7 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы получить 550 кусочков пиццы<br><br>
+          Чтобы получить 550 кусoчков пиццы<br><br>
           1. Подпишись на канал Гильдия Быстрого Матраса <a href="https://t.me/+vVKGfktbw59iMGMy" target="_blank">Подписаться ></a>
         </div>
 
