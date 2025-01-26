@@ -980,6 +980,18 @@ const router = createRouter({
       name: 'Sandy_816',
       component: () => import('@/pages/Sandy_816.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3162dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_206',
+      component: () => import('@/pages/Sirex_206.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3163dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_207',
+      component: () => import('@/pages/Sirex_207.vue'),
+    },
   ]
 })
 
