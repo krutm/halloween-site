@@ -998,6 +998,12 @@ const router = createRouter({
       name: 'D_3',
       component: () => import('@/pages/D_3.vue'),
     },
+
+    {
+      path: '/action=voucher&code=3165dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_208',
+      component: () => import('@/pages/Sirex_208.vue'),
+    },
   ]
 })
 
