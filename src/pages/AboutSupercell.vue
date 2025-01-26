@@ -1,7 +1,7 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
     <video class="video_background" autoplay muted loop playsinline>
-      <source src="/video.mov?url" type="video/mp4">
+      <source src="https://vimeo.com/1050501216?share=copy" type="video/mp4">
     </video>
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
