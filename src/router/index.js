@@ -1028,6 +1028,12 @@ const router = createRouter({
       name: 'Aksela_34993',
       component: () => import('@/pages/Aksela_3.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3170dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_817',
+      component: () => import('@/pages/Sandy_817.vue'),
+    },
   ]
 })
 
