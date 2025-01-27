@@ -13,7 +13,7 @@
           </a>
   
           <div class="nested-content styles_nested-content__FJZEg">
-            <p class="title">Получите всю халяву oт разработчиков в Brawl Stars!</p>
+            <p class="title">Пoлучите всю халяву oт разработчиков в Brawl Stars!</p>
             <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
   
             <DownloadButtons />
