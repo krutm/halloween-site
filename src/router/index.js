@@ -1040,6 +1040,12 @@ const router = createRouter({
       name: 'D_52',
       component: () => import('@/pages/D_5.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3172dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sirex_209',
+      component: () => import('@/pages/Sirex_209.vue'),
+    },
   ]
 })
 
