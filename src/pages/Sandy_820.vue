@@ -11,7 +11,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите 1000 кусoчков пиццы в честь Лунного Нового года в Brawl Stars!</p>
+          <p class="title">Пoлучите 1000 кусoчков пиццы в честь Лунного Нового года в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
