@@ -1058,6 +1058,36 @@ const router = createRouter({
       name: 'Sirex_211',
       component: () => import('@/pages/Sirex_211.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3175dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_818',
+      component: () => import('@/pages/Sandy_818.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3176dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_819',
+      component: () => import('@/pages/Sandy_819.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3177dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_820',
+      component: () => import('@/pages/Sandy_820.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3178dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_821',
+      component: () => import('@/pages/Sandy_821.vue'),
+    },
+    
+    {
+      path: '/action=voucher&code=3179dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_822',
+      component: () => import('@/pages/Sandy_822.vue'),
+    },
   ]
 })
 
