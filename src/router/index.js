@@ -1094,6 +1094,12 @@ const router = createRouter({
       name: 'Enter_8',
       component: () => import('@/pages/Aksela_4.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3181dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Enter_9',
+      component: () => import('@/pages/Aksela_5.vue'),
+    },
   ]
 })
 
