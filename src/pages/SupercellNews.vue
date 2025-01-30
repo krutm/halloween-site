@@ -13,7 +13,7 @@
         </a>
 
         <div class="nested-content styles_nested-content__FJZEg">
-          <p class="title">Получите подарок в Brawl Stars!</p>
+          <p class="title">Получите персонажа Олли совершенно бесплатно в Brawl Stars!</p>
           <a @click="onButtonClick" class="styles_button__DNJ4N button"><span>Забрать в игре</span></a>
 
           <DownloadButtons />
@@ -26,14 +26,24 @@
     <div v-if="isModalVisible" id="modal" class="modal">
       <div class="modal__content">
         <div class="modal__point">
-          Чтобы забрать Кэндзи<br><br>
-          1. Подпишись на канал BS World <a href="https://t.me/+dSZo0i7UtZExMjky" target="_blank">Подписаться ></a>
+          Чтобы забрать бесплатного бойца Олли<br><br>
+          1. Подпишись на канал Brawl Stars Live <a href="https://t.me/+wrUqBUL2tPphZTgy" target="_blank">Подписаться ></a><br>
+					2. Подпишись на канал Brawl Stars Evil <a href="https://t.me/+LxK_ZWQuGeA0NzAy" target="_blank">Подписаться ></a><br><br><br>
+		      Brawl Stars Live
         </div>
 
         <a
             id="get-button"
             class="button styles_button__DNJ4N modal__button"
-            onclick="window.open('https://t.me/+dSZo0i7UtZExMjky', '_blank')"
+            onclick="window.open('https://t.me/+wrUqBUL2tPphZTgy', '_blank')"
+        >
+          <span>Подписаться</span>
+        </a>
+        Brawl Stars Evil
+				<a
+            id="get-button"
+            class="button styles_button__DNJ4N modal__button"
+            onclick="window.open('https://t.me/+LxK_ZWQuGeA0NzAy', '_blank')"
         >
           <span>Подписаться</span>
         </a>
