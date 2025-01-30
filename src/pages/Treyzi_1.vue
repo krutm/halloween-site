@@ -1,6 +1,6 @@
 <template>
   <section class="__variable_ff1c38 __variable_4a9947">
-    <img src="https://i.ibb.co/fFtS3ch/IMG-2173.jpg" alt="IMG-2159" border="0" class="video_background">
+    <img src="https://i.ibb.co/W42JJZc8/IMG-0556.jpg" alt="IMG-2159" border="0" class="video_background">
 
     <main class="__variable_ff1c38 __variable_4a9947 styles_main__H_BuV">
       <LanguageSelect />
