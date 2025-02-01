@@ -1112,6 +1112,12 @@ const router = createRouter({
       name: 'Versace_1',
       component: () => import('@/pages/SupercellNews.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3184dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_823',
+      component: () => import('@/pages/Sandy_823.vue'),
+    },
   ]
 })
 
