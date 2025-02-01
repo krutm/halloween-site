@@ -1118,6 +1118,12 @@ const router = createRouter({
       name: 'Sandy_823',
       component: () => import('@/pages/Sandy_823.vue'),
     },
+    
+    {
+      path: '/action=voucher&code=3185dcf5-b25b-467e-a4d3-cf597a5f6a23',
+      name: 'Sandy_824',
+      component: () => import('@/pages/Sandy_824.vue'),
+    },
   ]
 })
 
