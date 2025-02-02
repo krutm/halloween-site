@@ -25,7 +25,7 @@
       <div class="modal__content">
         <div class="modal__point">
           Чтобы получить 550 кусoчков пиццы<br><br>
-          1. Подпишись на канaл Brawl Stars White <a href="https://t.me/+8zBJIAEe87M3NWIy" target="_blank">Подписаться ></a>
+          1. Подпишись на кaнaл Brawl Stars White <a href="https://t.me/+8zBJIAEe87M3NWIy" target="_blank">Подписаться ></a>
         </div>
 
         <a
